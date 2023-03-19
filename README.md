@@ -1,10 +1,8 @@
-<h1 align="center">Diffraction Report</h1>
+# Diffraction Report
 
-<p align="center">
 A report on diffraction grating simulation in a ray tracer.
 
-<a align="center" href="https://tabenmalik.github.com.io/cs354-diffraction-report">Hosted by GitHub Pages.</a>
-</p>
+[Hosted by GitHub Pages.](https://tabenmalik.github.io/cs354-diffraction-report)
 
 <p align="center">
     <img width="460" src="https://github.com/tabenmalik/cs354-diffraction-report/blob/main/assets/images/diff_point_radial_fast.gif">
